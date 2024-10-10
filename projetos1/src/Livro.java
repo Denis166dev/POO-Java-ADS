@@ -1,4 +1,3 @@
-//Crie uma classe Livro com atributos para título, autor e preço. Crie objetos Livro e exiba informações sobre os livros.
 public class Livro {
     private String titulo;
     private  String autor;

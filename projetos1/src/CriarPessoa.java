@@ -1,4 +1,3 @@
-
 public class CriarPessoa {
     public static void main(String[] args) {
         Pessoa criarpessoa = new Pessoa("Denis", 18, "Esperança");
