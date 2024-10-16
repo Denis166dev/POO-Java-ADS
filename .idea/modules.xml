@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Lista1/Lista1.iml" filepath="$PROJECT_DIR$/Lista1/Lista1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lista2/Lista2.iml" filepath="$PROJECT_DIR$/Lista2/Lista2.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/POO-Java-ADS.iml" filepath="$PROJECT_DIR$/.idea/POO-Java-ADS.iml" />
-      <module fileurl="file://$PROJECT_DIR$/projetos1/projetos1.iml" filepath="$PROJECT_DIR$/projetos1/projetos1.iml" />
     </modules>
   </component>
 </project>
